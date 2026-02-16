@@ -22,4 +22,4 @@ This project predicts gold prices using machine learning techniques based on fin
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## Project Report
-
+https://www.scribd.com/document/998824816/Gold-Price-Prediction-Using-Machine-Learning-Business-Report
